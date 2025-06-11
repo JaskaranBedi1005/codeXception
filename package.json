@@ -1,0 +1,29 @@
+{
+  "name": "lost_and_found",
+  "version": "1.0.0",
+  "description": "Web app that looks for lost items",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+     "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaskaranBedi1005/Lost-and-Found.git"
+  },
+  "author": "codeXception",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaskaranBedi1005/Lost-and-Found/issues"
+  },
+  "homepage": "https://github.com/JaskaranBedi1005/Lost-and-Found#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1",
+    "multer": "^2.0.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
